@@ -1,0 +1,16 @@
+# This file contains a list of your monitors.
+# The keys can be whatever name you want to give the display.
+# The Id value can be determined from executing "displayplacer list",
+# the order doesn't matter.
+# The Swap value determines whether the display will participate in
+# a display swap.
+# Exactly two displays are required for a swap to succeed.
+External Display 1:
+  Id: 0CE9442A-8AAE-F79C-0750-7EB20D883055
+  Swap: true
+External Display 2:
+  Id: BA9B7171-FBBC-874A-0091-4B3A205CCA1E
+  Swap: true
+Internal Display:
+  Id: 62617D36-03B7-71D3-B3E2-D93A6EE74D42
+  Swap: false
