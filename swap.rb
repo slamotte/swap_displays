@@ -1,4 +1,3 @@
-require "awesome_print"
 require "yaml"
 
 DISPLAYS_FILE = "displays.yaml".freeze
