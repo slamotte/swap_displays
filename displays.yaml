@@ -6,10 +6,16 @@
 # Exactly two displays are required for a swap to succeed.
 Left LG:
   Id: 0CE9442A-8AAE-F79C-0750-7EB20D883055
+  Mode: 1
+  Width: 1920
   Swap: true
 Right LG:
   Id: BA9B7171-FBBC-874A-0091-4B3A205CCA1E
+  Mode: 1
+  Width: 1920
   Swap: true
 MacBook Pro:
   Id: 62617D36-03B7-71D3-B3E2-D93A6EE74D42
+  Mode: 59
+  Width: 1680
   Swap: false
